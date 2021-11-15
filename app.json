@@ -1,0 +1,26 @@
+{
+  "id": "8696866b-d737-4a6c-be25-4aa214568121",
+  "name": "Subscription",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "Subscription Management",
+  "description": "Subscription Management",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Subscription.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
